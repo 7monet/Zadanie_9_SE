@@ -1,0 +1,5 @@
+- [X] Stworzyć baze strony
+- [ ] Uzupełnić sekcje Menu
+- [ ] Uzupełnić sekcje Stopka
+- [ ] Zmienić szte graficzną
+- [ ] Zmienić logo
